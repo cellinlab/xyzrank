@@ -7,24 +7,24 @@
         "podcastName": "数据会说话",
         "logoURL": "https://xyzrank.justinbot.com/FjdSuofAaysCYTbf0jhw620PE8oU.jpg@small",
         "link": "https://www.xiaoyuzhoufm.com/episode/681c84bd24f855934693ffb9",
-        "playCount": 8201,
-        "commentCount": 148,
+        "playCount": 8739,
+        "commentCount": 155,
         "subscription": 7788,
         "duration": 33,
         "postTime": "2025-05-08T10:25:12.609Z",
         "primaryGenreName": "",
         "totalEpisodesCount": 4,
-        "openRate": 1.053030303030303,
-        "lastReleaseDateDayCount": 4.378662662037037
+        "openRate": 1.1221109399075502,
+        "lastReleaseDateDayCount": 5.378686493055556
       }
     ],
     "medianValues": {
-      "playCount": 8201,
-      "commentCount": 148,
-      "interactiveRate": 0.01804657968540422,
-      "openRate": 1.053030303030303,
+      "playCount": 8739,
+      "commentCount": 155,
+      "interactiveRate": 0.017736583133081588,
+      "openRate": 1.1221109399075502,
       "duration": 33,
-      "lastReleaseDateDayCount": 4.378662662037037
+      "lastReleaseDateDayCount": 5.378686493055556
     }
   },
   "type": 3
