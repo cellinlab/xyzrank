@@ -7,24 +7,40 @@
         "podcastName": "数据会说话",
         "logoURL": "https://xyzrank.justinbot.com/FjdSuofAaysCYTbf0jhw620PE8oU.jpg@small",
         "link": "https://www.xiaoyuzhoufm.com/episode/681c84bd24f855934693ffb9",
-        "playCount": 8739,
-        "commentCount": 155,
+        "playCount": 9091,
+        "commentCount": 159,
         "subscription": 7788,
         "duration": 33,
         "postTime": "2025-05-08T10:25:12.609Z",
         "primaryGenreName": "",
         "totalEpisodesCount": 4,
-        "openRate": 1.1221109399075502,
-        "lastReleaseDateDayCount": 5.378686493055556
+        "openRate": 1.1673086800205443,
+        "lastReleaseDateDayCount": 6.378688148148148
+      },
+      {
+        "title": "月薪1万卡3年？找到赚钱猛的老板，才愿意分你钱💰",
+        "podcastID": "1289cfb151445c598c11476501371459",
+        "podcastName": "富女孩宝典",
+        "logoURL": "https://xyzrank.justinbot.com/FupCUr-YH4Ker_WCnEB6QZT7OIiX.jpg@small",
+        "link": "https://www.xiaoyuzhoufm.com/episode/682346cbb7c8a9962ce98f60",
+        "playCount": 2163,
+        "commentCount": 34,
+        "subscription": 27604,
+        "duration": 104,
+        "postTime": "2025-05-13T23:00:00.000Z",
+        "primaryGenreName": "",
+        "totalEpisodesCount": 7,
+        "openRate": 0.07835820895522388,
+        "lastReleaseDateDayCount": 0.8545285300925926
       }
     ],
     "medianValues": {
-      "playCount": 8739,
-      "commentCount": 155,
-      "interactiveRate": 0.017736583133081588,
-      "openRate": 1.1221109399075502,
-      "duration": 33,
-      "lastReleaseDateDayCount": 5.378686493055556
+      "playCount": 5627,
+      "commentCount": 96.5,
+      "interactiveRate": 0.0166043670122707,
+      "openRate": 0.6228334444878841,
+      "duration": 68.5,
+      "lastReleaseDateDayCount": 3.6166083391203703
     }
   },
   "type": 3
