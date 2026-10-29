@@ -7,15 +7,15 @@
         "podcastName": "女子立风",
         "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/df/d0/c1/dfd0c1d1-6f58-77f1-025a-078bef46ef3d/mza_11473022387379166315.jpeg/100x100bb.jpg",
         "link": "https://www.xiaoyuzhoufm.com/episode/6ad36178641ef406308d1377",
-        "playCount": 46666,
+        "playCount": 47605,
         "commentCount": 129,
         "subscription": 79771,
         "duration": 64,
         "postTime": "2026-10-17T13:00:06.648Z",
         "primaryGenreName": "爱好",
         "totalEpisodesCount": 21,
-        "openRate": 0.5849995612440612,
-        "lastReleaseDateDayCount": 10.27131392361111,
+        "openRate": 0.5967707562898797,
+        "lastReleaseDateDayCount": 11.271499166666667,
         "rank": 1
       },
       {
@@ -32,25 +32,8 @@
         "primaryGenreName": "",
         "totalEpisodesCount": 8,
         "openRate": 1.850504393101204,
-        "lastReleaseDateDayCount": 8.146390868055555,
+        "lastReleaseDateDayCount": 9.146576111111111,
         "rank": 2
-      },
-      {
-        "title": "2026诺奖经济学奖: 发钱、降息管不管用, 还得看你怎么想",
-        "podcastID": "d4b13da83f75d5fd3f514f519e4305fd",
-        "podcastName": "时代指北Finding North",
-        "logoURL": "https://xyzrank.justinbot.com/Fv52I8VH1ZUkNUgWIfBWjDce7XY3.png@small",
-        "link": "https://www.xiaoyuzhoufm.com/episode/6ace67ff195d838e2af1704b",
-        "playCount": 20143,
-        "commentCount": 40,
-        "subscription": 2052,
-        "duration": 56,
-        "postTime": "2026-10-13T23:30:00.000Z",
-        "primaryGenreName": "",
-        "totalEpisodesCount": 10,
-        "openRate": 9.816276803118908,
-        "lastReleaseDateDayCount": 13.833890868055555,
-        "rank": 3
       },
       {
         "title": "#006 AI 逆向挡不住，Grok Bot、Muse 用上头：干活还是过家家？",
@@ -66,8 +49,8 @@
         "primaryGenreName": "",
         "totalEpisodesCount": 7,
         "openRate": 1.4833289577316882,
-        "lastReleaseDateDayCount": 9.048785925925927,
-        "rank": 4
+        "lastReleaseDateDayCount": 10.048971168981481,
+        "rank": 3
       },
       {
         "title": "EP011｜勇敢不是不害怕，而是不再让恐惧替你做决定",
@@ -83,8 +66,8 @@
         "primaryGenreName": "",
         "totalEpisodesCount": 11,
         "openRate": 2.4686152371825587,
-        "lastReleaseDateDayCount": 12.792224201388889,
-        "rank": 5
+        "lastReleaseDateDayCount": 13.792409444444445,
+        "rank": 4
       },
       {
         "title": "不补课、去饭局、敢顶撞… 聊聊我的“非典型”成长史",
@@ -100,7 +83,24 @@
         "primaryGenreName": "",
         "totalEpisodesCount": 7,
         "openRate": 0.2522051939092298,
-        "lastReleaseDateDayCount": 12.352395717592593,
+        "lastReleaseDateDayCount": 13.352580960648147,
+        "rank": 5
+      },
+      {
+        "title": "下一代组织如何重新划定决策边界？｜对话触宝联创王佳梁",
+        "podcastID": "b4a64f1b2ab5faf4afa066038955060b",
+        "podcastName": "有点Yi思",
+        "logoURL": "https://xyzrank.justinbot.com/FhyVOAQao-ed6K4lzBLjKyFM0yUy.png@small",
+        "link": "https://www.xiaoyuzhoufm.com/episode/6ad83ef6b381c0fcba1964e6",
+        "playCount": 4434,
+        "commentCount": 35,
+        "subscription": 21978,
+        "duration": 79,
+        "postTime": "2026-10-21T04:38:28.116Z",
+        "primaryGenreName": "",
+        "totalEpisodesCount": 15,
+        "openRate": 0.20174720174720176,
+        "lastReleaseDateDayCount": 7.619861805555556,
         "rank": 6
       },
       {
@@ -117,7 +117,7 @@
         "primaryGenreName": "",
         "totalEpisodesCount": 14,
         "openRate": 1.3409160774669535,
-        "lastReleaseDateDayCount": 12.144307534722222,
+        "lastReleaseDateDayCount": 13.144492777777778,
         "rank": 7
       },
       {
@@ -134,7 +134,7 @@
         "primaryGenreName": "宗教与心灵",
         "totalEpisodesCount": 18,
         "openRate": 0.13881911902530458,
-        "lastReleaseDateDayCount": 6.854724201388889,
+        "lastReleaseDateDayCount": 7.854909444444444,
         "rank": 8
       },
       {
@@ -151,7 +151,7 @@
         "primaryGenreName": "",
         "totalEpisodesCount": 14,
         "openRate": 0.29630889607076033,
-        "lastReleaseDateDayCount": 8.854724201388889,
+        "lastReleaseDateDayCount": 9.854909444444445,
         "rank": 9
       },
       {
@@ -168,7 +168,7 @@
         "primaryGenreName": "休闲",
         "totalEpisodesCount": 12,
         "openRate": 0.928639391056137,
-        "lastReleaseDateDayCount": 11.146390868055555,
+        "lastReleaseDateDayCount": 12.146576111111111,
         "rank": 10
       },
       {
@@ -185,7 +185,7 @@
         "primaryGenreName": "宗教与心灵",
         "totalEpisodesCount": 14,
         "openRate": 0.4889719626168224,
-        "lastReleaseDateDayCount": 12.307473842592593,
+        "lastReleaseDateDayCount": 13.307659085648147,
         "rank": 11
       },
       {
@@ -202,25 +202,8 @@
         "primaryGenreName": "社会与文化",
         "totalEpisodesCount": 15,
         "openRate": 0.15460902733630005,
-        "lastReleaseDateDayCount": 7.021390868055556,
+        "lastReleaseDateDayCount": 8.021576111111111,
         "rank": 12
-      },
-      {
-        "title": "EP13 | AI时代，如何投资决策？",
-        "podcastID": "36d7a1f71d3e47d1a692e085e636684c",
-        "podcastName": "听见北大汇丰",
-        "logoURL": "https://xyzrank.justinbot.com/FtUuRgh2Gsw6-BQPgdvOz09pc5Ov.png@small",
-        "link": "https://www.xiaoyuzhoufm.com/episode/6acdf808195d838e2af13b62",
-        "playCount": 1143,
-        "commentCount": 3,
-        "subscription": 8685,
-        "duration": 72,
-        "postTime": "2026-10-14T00:00:00.000Z",
-        "primaryGenreName": "",
-        "totalEpisodesCount": 13,
-        "openRate": 0.1316062176165803,
-        "lastReleaseDateDayCount": 13.813057534722223,
-        "rank": 13
       }
     ]
   }
